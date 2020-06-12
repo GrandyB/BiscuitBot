@@ -1,0 +1,19 @@
+{
+  "name": "biscuit-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start" : "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [],
+  "author": "Mark 'Grandy' Bishop",
+  "license": "GPL-3.0-only"
+}
